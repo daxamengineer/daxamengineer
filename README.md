@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daxamengineer
-- 👀 I’m interested in fiction.
-- 🌱 I’m currently learning engineering in computer science.
+- 👀 I’m interested in science fiction and programming.
+- 🌱 I’m currently pursuing engineering in computer science.
 
 
 
