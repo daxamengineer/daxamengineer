@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daxamengineer
+- 👋 Greetings, My name is Anish Khemani.
 - 👀 I’m interested in science fiction and programming.
 - 🌱 I’m currently pursuing engineering in computer science.
 
